@@ -1,0 +1,16 @@
+jupyterlab
+torch
+tqdm
+numpy
+
+# Reformer
+reformer_pytorch
+
+# Sinkhorn Transformer
+sinkhorn_transformer
+
+# Summarization
+transformers
+ipywidgets
+datasets
+rouge
